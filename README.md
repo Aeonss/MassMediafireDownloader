@@ -2,7 +2,7 @@
 
 <h1 align="center">Mass Mediafire Downloader</h1>
 
-<font size="3"><a href="https://github.com/Aeonss/MassMediafireDownloader/releases/latest/">Mass Mediafire Download (MMD)</a> is simple and program for those looking to mass download files from mediafire links or pages containing mediafire links.</font>
+<font size="3"><a href="https://github.com/Aeonss/MassMediafireDownloader/releases/latest/">Mass Mediafire Download (MMD)</a> is simple program for those looking to mass download files from mediafire links or pages containing mediafire links.</font>
 
 <br>
 <p align="center">
