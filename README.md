@@ -31,7 +31,7 @@
 * Enter the password for the rars in the input field next to the button
 
 ## ✅ &nbsp; Additional Information
-* You may need to download <b>tkinter</b> with <u>pip install tkinter</u>
+* You may need to download <b>tkinter</b> with "pip install tkinter"
 * The program assumes <b>all rars</b> that are encrypted with passwords have the <b>same password</b>
 * Please request any features or report any bugs in [issues](https://github.com/Aeonss/MassMediafireDownloader/issues).
 
